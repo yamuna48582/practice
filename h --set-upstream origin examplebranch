@@ -1,0 +1,17 @@
+[1mdiff --git a/branching.txt b/branching.txt[m
+[1mindex 1dbcdb7..b74f5f6 100644[m
+[1m--- a/branching.txt[m
+[1m+++ b/branching.txt[m
+[36m@@ -1,9 +1,3 @@[m
+ hiii good morning , time is 9:30[m
+ iam in local repo[m
+[31m-iam in in the main branch of github[m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-now iam in examplebranch [m
+[31m-hiii good afternoon[m
+[31m-now the time is 1:15[m
+\ No newline at end of file[m
+[32m+[m[32miam in in the main branch of github[m
+\ No newline at end of file[m
